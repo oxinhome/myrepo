@@ -4,4 +4,8 @@ client2 ver 0.2
 =======
 client 1 ver 0.2
 >>>>>>> 3d96ef0ba0e5a0015d2511562c39f48bbc8e8084
+<<<<<<< HEAD
 client 2 ver 0.3
+=======
+client 1 ver 0.3
+>>>>>>> cb5d34bbbbec92536fe2d608d79058c2a67f913a
