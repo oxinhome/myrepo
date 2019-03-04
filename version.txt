@@ -9,5 +9,9 @@ client 2 ver 0.3
 =======
 client 1 ver 0.3
 >>>>>>> cb5d34bbbbec92536fe2d608d79058c2a67f913a
+<<<<<<< HEAD
 client 2 edit -> not commit -> pull
 
+=======
+edit -> not commit -> pull
+>>>>>>> d1d4b3dced5f2e70a8933705f492c53340ae7742
