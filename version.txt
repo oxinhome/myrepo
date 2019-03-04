@@ -1,2 +1,6 @@
 ver 0.1
+<<<<<<< HEAD
 client2 ver 0.2
+=======
+client 1 ver 0.2
+>>>>>>> 3d96ef0ba0e5a0015d2511562c39f48bbc8e8084
