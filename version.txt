@@ -6,10 +6,12 @@ client1 ver0.5 15:45
 client1 ver0.6 15:51
 client1 ver1.0 16:27
 client2 ver1.1 16:29
+client1 ver1.2 16:34
 
 <<<<<<< HEAD
 
-client1 ver1.2 16:34
->>>>>>> 3efa1607b917e48e1e005dc304f2aa489972901a
+client3 ver1.3 17:17
+client4 ver1.4 17:19
 
-client4 ver1.3 17:19
+
+>>>>>>> e5398cd21700095bb54a8f47595f733f487c8a56
